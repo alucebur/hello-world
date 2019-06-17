@@ -7,4 +7,4 @@ I will be uploading some python code in the next few days, and some old javascri
 
     Example of command
   
-Markdown syntax is easy to learn.
+Markdown syntax is easy to learn and use.
