@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Hello World"
-description: "Nope"
+description: "Test repository"
 ---
 # Hello World!
 
