@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Hello World!
 
 First time using git, but not the last one!
