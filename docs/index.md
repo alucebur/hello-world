@@ -1,5 +1,7 @@
 ---
 layout: default
+title: "Hello World"
+description: "Nope"
 ---
 # Hello World!
 
