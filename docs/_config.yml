@@ -1,4 +1,5 @@
 theme: jekyll-theme-slate
+baseurl: /hello-world
 title: "Alucebur Was Here"
 description: I will be posting here different stuff about my projects
 show_downloads: ["true"]
