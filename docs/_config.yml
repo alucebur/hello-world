@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 title: "Hello world"
 description: This is my first repository. Just doing some testing here and there.
-permalink: /projects/hello-world
-base-url: "/projects/"
+permalink: "/projects/hello-world"
+baseurl: ""
 show_downloads: ["true"]
