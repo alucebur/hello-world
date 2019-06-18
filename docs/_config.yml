@@ -1,5 +1,7 @@
 theme: jekyll-theme-slate
-baseurl: /hello-world
-title: "Alucebur Was Here"
-description: I will be posting here different stuff about my projects
+title: "Hello world"
+description: >-
+This is my first repository.
+Just doing some testing here and there.
+baseurl: /projects/hello-world
 show_downloads: ["true"]
