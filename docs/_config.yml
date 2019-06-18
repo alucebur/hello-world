@@ -1,7 +1,5 @@
 theme: jekyll-theme-slate
 title: "Hello world"
-description: >-
-This is my first repository.
-Just doing some testing here and there.
+description: This is my first repository. Just doing some testing here and there.
 baseurl: /projects/hello-world
 show_downloads: ["true"]
